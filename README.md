@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tanviirshanto&label=Profile%20views&color=0e75b6&style=flat" alt="tanviirshanto" /> </p>
 
-- 🌱 I’m currently learning **Angular JS**
+- 🌱 I’m currently learning **Django REST framework**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-orcin-ten-66.vercel.app/](https://portfolio-orcin-ten-66.vercel.app/)
 
