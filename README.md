@@ -36,7 +36,6 @@
 
 ### 📫 Connect with me:
 
-- 👨‍💻 Portfolio: [tanvirs-portfolio.vercel.app](https://tanvirs-portfolio.vercel.app/)
 - 📧 Email: [tanviir.hossen@gmail.com](mailto:tanviir.hossen@gmail.com)
 - 💼 LinkedIn: [tanviir-hossen](https://linkedin.com/in/tanviir-hossen-shanto)
 
