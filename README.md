@@ -37,7 +37,7 @@
 ### 📫 Connect with me:
 
 - 📧 Email: [tanviir.hossen@gmail.com](mailto:tanviir.hossen@gmail.com)
-- 💼 LinkedIn: [tanviir-hossen](https://linkedin.com/in/tanviir-hossen-shanto)
+- 💼 LinkedIn: [tanviir-hossen](https://linkedin.com/in/tanvir-hossen-shanto)
 
 <p align="left">
   <a href="www.linkedin.com/in/tanvir-hossen-shanto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanviir-hossen" height="30" width="40" /></a>
